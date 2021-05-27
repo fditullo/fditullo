@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- Disponible uniquement dans le repository Maven Oracle : https://maven.oracle.com -->
 <dependencies>
    <dependency>
@@ -6,3 +7,13 @@
 	<version>18.3.0.0</version>
    </dependency>
 </dependencies>
+=======
+<!-- Disponible uniquement dans le repository Maven Oracle : https://maven.oracle.com -->
+<dependencies>
+   <dependency>
+	<groupid>com.oracle.jdbc</groupid>
+	<artifactid>ojdbc8</artifactid>
+	<version>18.3.0.0</version>
+   </dependency>
+</dependencies>
+>>>>>>> e2130ba7f39c794f95dddb627bda559b63f8f08c
